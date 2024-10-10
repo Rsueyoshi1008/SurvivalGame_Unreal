@@ -497,6 +497,9 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# 大容量ファイルを無視
+Content/BlackAlder/Textures
+
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
